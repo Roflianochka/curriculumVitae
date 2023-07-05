@@ -1,6 +1,9 @@
 # Belyaev Maxim 
 ![Belyaev Maxim](https://github.com/Roflianochka/curriculumVitae/assets/107355541/4758ee44-841b-439f-866b-40b8a78fd6b9)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0f145100051bef61446dc87c691d70c971f219d9
 ## Contact information:
 * Phone: +375445417858
 * [*Telegram*](https://t.me/roooflianochka)
